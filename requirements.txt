@@ -1,3 +1,5 @@
 openai==0.28.0
+openai[datalib]
 python-dotenv
 flask
+pinecone
